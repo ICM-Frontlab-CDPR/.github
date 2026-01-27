@@ -5,6 +5,6 @@ please have a look to the "git-it electron" repository and do not hesitate to as
 
 * Ask access to the specific repo you will be involved in your project
 
-* Visit the [Minimal use](./github/minimal_use.md)
+* Visit the [Minimal use](minimal_use.md)
 
 
