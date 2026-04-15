@@ -15,7 +15,7 @@ Please note: The official versioning tool at ICM is GitLab. GitHub is used here 
 
 ## 🖥️ Resources from ICM-DSI
  
-*Coming soon*
+[ICM-wiki](https://dokuwiki.icm-institute.org/)
  
 ## 🌐 External Resources
  
