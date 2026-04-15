@@ -1,10 +1,23 @@
-Our space to share which will be usefull for others people of the lab.
+# Lab GitHub Space
+ 
+Our space to share resources useful for everyone in the lab.
+ 
+## 🚀 Getting Started
+ 
+- For newcomers not yet familiar with versioning using Git and GitHub, please have a look at the [git-it](https://github.com/jlord/git-it-electron) repository — a wonderful tutorial to get started. Do not hesitate to ask for help!
+- Ask for access to the specific repository you will be involved in for your project.
+- Visit the [Minimal Use](minimal_use.md) guide.
+  
+## 🔬 Resources from Other ICM Teams
+ 
+- [Bacci Lab](https://github.com/Bacci-Lab)
 
-* For the newcomers who are not used to versioning with git and github:
-please have a look to the [git-it](https://github.com/jlord/git-it-electron) repository (a wonderful tuto to start). And do not hesitate to ask for help.
-
-* Ask access to the specific repo you will be involved in your project
-
-* Visit the [Minimal use](minimal_use.md)
+## 🖥️ Resources from ICM-DSI
+ 
+*Coming soon*
+ 
+## 🌐 External Resources
+ 
+*Coming soon*
 
 
