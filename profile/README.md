@@ -50,7 +50,7 @@ torch or tensorflow
 This is a technical documentation : commun conceptual knowledge should be stored elsewhere (coregistration - mri sequences - time series ...)
 - Here is a presentation of the conceptual knowledge about programming
   
-Also, never forget that in 99.99% the piece of code you need is already available publically, we just have to find it.
+Also, never forget that in 99.99% the piece of code we need is already available publically, we just have to find it.
 Please feel free to update the ressources ! 
 
 
