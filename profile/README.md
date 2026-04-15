@@ -1,6 +1,7 @@
 # Lab GitHub Space
  
 Our space to share resources useful for everyone in the lab.
+Please note: The official versioning tool at ICM is GitLab. GitHub is used here temporarily, as more people are currently familiar with it.
  
 ## 🚀 Getting Started
  
