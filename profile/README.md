@@ -9,16 +9,22 @@ Please note: The official versioning tool at ICM is GitLab. GitHub is used here 
 - Ask for access to the specific repository you will be involved in for your project.
 - Visit the [Minimal Use](minimal_use.md) guide.
   
-## 🔬 Resources from Other ICM Teams
+## 🔬 Technical Resources from Other ICM Teams
  
 - [Bacci Lab](https://github.com/Bacci-Lab)
 
-## 🖥️ Resources from ICM-DSI
+## 🖥️ Technical Resources from ICM-DSI
  
 [ICM-wiki](https://dokuwiki.icm-institute.org/)
  
-## 🌐 External Resources
+## 🌐 External Technical Resources
  
-*Coming soon*
+[MNE-tools for MEG and EEG](https://github.com/mne-tools/mne-python)
+
+[Nipy community for MRI](https://github.com/nipy)
+
+[Simnibs repo for tES simulation](https://github.com/simnibs/simnibs)
+
+Please feel free to update the ressources !
 
 
