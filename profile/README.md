@@ -15,10 +15,11 @@ Please note:
 ## 🔬 Technical Resources from other ICM Teams
  
 - [Bacci Lab](https://github.com/Bacci-Lab)
+- add les autres equipes qui font des choses proches de nous au sein de l'ICM
 
 ## 🖥️ Technical Resources from ICM-DSI
  
-[ICM-wiki](https://dokuwiki.icm-institute.org/)
+[ICM-wiki](https://dokuwiki.icm-institute.org/)  (really important for cluster use !!
  
 ## 🌐 External Technical Resources
 
@@ -48,7 +49,7 @@ scikit learn
 torch or tensorflow
 + neuralset from meta : first release soon for decoding methods :)
 
-### Lab Specific
+### Lab Specific  (add le lien vers les pipelines du labo et aussi les outils hors labo)
 
 #### tES
 [Simnibs for tES simulation](https://github.com/simnibs/simnibs)  
