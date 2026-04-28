@@ -19,7 +19,8 @@ Please note:
 
 ## 🖥️ Technical Resources from ICM-DSI
  
-[ICM-wiki](https://dokuwiki.icm-institute.org/)  (really important for cluster use !!
+[ICM-wiki](https://dokuwiki.icm-institute.org/)  (really important for cluster use !)
+https://wiki.icm-institute.org/books/hpc-high-performance-computing/page/hpcod-hpc-ondemand 
  
 ## 🌐 External Technical Resources
 
