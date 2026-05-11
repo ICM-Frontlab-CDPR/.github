@@ -52,6 +52,13 @@ torch or tensorflow
 
 ### Lab Specific  (add le lien vers les pipelines du labo et aussi les outils hors labo)
 
+We are dealing with very particular data and consequently, we use particular methods:
+
+#### stroke-related
+Stroke dataset [ATLAS](https://atlas.grand-challenge.org/Data/)
+VAEs assisted lesion-mask reconstruction with [REFLECT](https://github.com/farzad-bz/REFLECT)
+Linda (see Leonore)
+
 #### tES
 [Simnibs](https://github.com/simnibs/simnibs) for tES simulation (and ROAST...)
 [BCBToolKit](https://github.com/chrisfoulon/BCBToolKit)
@@ -61,12 +68,8 @@ Neuronavigation
 Openvibe - openBCI - 
 doc Guilaume to add
 
-#### stroke-related
 
-VAEs assisted segmentation 
-Linda (see Leonore)
-
-#### other ??
+#### 
 
 
 
