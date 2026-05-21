@@ -57,7 +57,9 @@ We are dealing with very particular data and consequently, we use particular met
 #### stroke-related
 Stroke dataset [ATLAS](https://atlas.grand-challenge.org/Data/)
 VAEs assisted lesion-mask reconstruction with [REFLECT](https://github.com/farzad-bz/REFLECT)
+https://huggingface.co/farzadbz/Medical-VAE
 https://github.com/ICM-Frontlab-CDPR/SynthStroke_CDPR 
+
 Linda (see Leonore)
 
 #### tES
