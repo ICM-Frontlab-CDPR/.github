@@ -55,7 +55,7 @@ torch or tensorflow
 We are dealing with very particular data and consequently, we use particular methods:
 
 #### stroke-related
-Stroke dataset [ATLAS](https://atlas.grand-challenge.org/Data/)
+Stroke dataset [ATLAS](https://atlas.grand-challenge.org/Data/)  https://atlas.grand-challenge.org/Data/  https://www.icpsr.umich.edu/sites/icpsr/find-data
 VAEs assisted lesion-mask reconstruction with [REFLECT](https://github.com/farzad-bz/REFLECT)
 https://huggingface.co/farzadbz/Medical-VAE
 https://github.com/ICM-Frontlab-CDPR/SynthStroke_CDPR 
@@ -64,7 +64,7 @@ Linda (see Leonore)
 
 #### tES
 [Simnibs](https://github.com/simnibs/simnibs) for tES simulation (and ROAST...)
-[BCBToolKit](https://github.com/chrisfoulon/BCBToolKit)
+[BCBToolKit](https://github.com/chrisfoulon/BCBToolKit)  add Vincent pipeline from Monica
 Neuronavigation
 
 #### closed-loop and BCI 
