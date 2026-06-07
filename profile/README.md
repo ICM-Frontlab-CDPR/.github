@@ -72,7 +72,8 @@ Openvibe - openBCI -
 doc Guilaume to add
 
 
-#### 
+#### Others
+https://github.com/harmening/headmodel_individualization 
 
 
 
