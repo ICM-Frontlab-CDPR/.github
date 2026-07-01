@@ -81,4 +81,7 @@ https://github.com/harmening/headmodel_individualization
 PS : Also, never forget that in 99.99% the piece of code we need is already available publically, we just have to find it.
 Please feel free to update the ressources ! 
 
+TOADD
+https://www.neuropsis.org/nifti_viewer.html 
+
 
