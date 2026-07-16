@@ -1,10 +1,11 @@
 # Lab GitHub Space
  
-Our space to share resources useful for everyone in the lab.
-Please note: 
+Our space to share resources useful for everyone in the CDPR team.
+
+Please note:
 - The official versioning tool at ICM is GitLab. GitHub is used here temporarily, as more people are currently familiar with it. 
 - This is a technical documentation : commun conceptual knowledge should be stored elsewhere (coregistration - mri sequences - time series ...)
-- for conceptual knowledge about programming -see here-
+- Before to go further here, be sure to had visited [ICM FrontLab CDPR Introduction](https://icm-frontlab-cdpr.github.io/) (for a general presentation & important conceptual knowledge in the team)
  
 ## 🚀 Getting Started
  
