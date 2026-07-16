@@ -1,4 +1,4 @@
-# Lab GitHub Space
+# CDPR GitHub Space
 
 Our space to share resources useful for everyone in the CDPR team.
 You will find all code (projects related, and tools) here: [ICM-Frontlab-CDPR repositories](https://github.com/orgs/ICM-Frontlab-CDPR/repositories).
