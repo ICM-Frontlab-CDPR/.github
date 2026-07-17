@@ -26,6 +26,8 @@ Please note:
 
 ## 🌐 External Technical Resources
 
+Keep in mind our [processing schema](https://icm-frontlab-cdpr.github.io/process-schema.html)
+
 ### 🧠 Global Neurosciences
 
 #### General Data
