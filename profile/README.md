@@ -73,6 +73,7 @@ We are dealing with very particular data and consequently, we use particular met
 - [BCBToolKit](https://github.com/chrisfoulon/BCBToolKit) — disconnectome & tractography toolkit. *add Vincent pipeline from Monica.*
 - [Brainsight Neuronavigation](https://www.rogue-research.com/) — TMS neuronavigation system (Rogue Research).
 - 3D neuronavigation: [headmodel_individualization](https://github.com/harmening/headmodel_individualization) — individual head-model building.
+- https://gitlab.gwdg.de/tms-localization/pynibs 
 
 #### Methods specificites: closed-loop and BCI
 - [OpenViBE](https://openvibe.inria.fr/) — real-time BCI acquisition & processing platform (documentation on site).
